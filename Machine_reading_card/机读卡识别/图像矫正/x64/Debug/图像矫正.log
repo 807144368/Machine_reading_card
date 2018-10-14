@@ -1,0 +1,21 @@
+﻿D:\vs\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(图像矫正.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+d:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\张\desktop\machine_reading_card-master\机读卡识别\图像矫正\源.cpp(41): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\张\desktop\machine_reading_card-master\机读卡识别\图像矫正\源.cpp(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\张\desktop\machine_reading_card-master\机读卡识别\图像矫正\源.cpp(118): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\张\desktop\machine_reading_card-master\机读卡识别\图像矫正\源.cpp(119): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\张\desktop\machine_reading_card-master\机读卡识别\图像矫正\源.cpp(120): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\张\desktop\machine_reading_card-master\机读卡识别\图像矫正\源.cpp(176): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\张\desktop\machine_reading_card-master\机读卡识别\图像矫正\源.cpp(194): warning C4101: “t_area”: 未引用的局部变量
+c:\users\张\desktop\machine_reading_card-master\机读卡识别\图像矫正\源.cpp(235): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\张\desktop\machine_reading_card-master\机读卡识别\图像矫正\源.cpp(336): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\张\desktop\machine_reading_card-master\机读卡识别\图像矫正\源.cpp(339): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\张\desktop\machine_reading_card-master\机读卡识别\图像矫正\源.cpp(342): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  图像矫正.vcxproj -> C:\Users\张\Desktop\Machine_reading_card-master\机读卡识别\x64\Debug\视觉检测.exe
